@@ -1,4 +1,5 @@
 const basket = ['apples', 'oranges', 'grapes'];
+const sport = ['soccer', 'rugby', 'tenis'];
 const detailedBasket = {
   apples: 5,
   oranges: 10,
